@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+
+html,
+body {
+  margin: 0;
+  font-family: Karla, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a,
+button,
+[role="button"],
+input,
+label,
+select,
+textarea {
+  touch-action: manipulation;
+}

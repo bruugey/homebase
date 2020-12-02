@@ -1,0 +1,23 @@
+.bold {
+  font-weight: bolder;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.decoration-none {
+  text-decoration: none;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+.lc {
+  text-transform: lowercase;
+}
